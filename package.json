@@ -1,6 +1,7 @@
 {
-    "name": "arctic-depth-zed",
-    "version": "1.0.0",
+    "name": "zed-theme-arctic-depth",
+    "displayName": "Arctic Depth",
+    "version": "1.0.2",
     "description": "A sleek, high-contrast dark blue theme for Zed",
     "author": "Marvellinus Vincent",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -12,5 +13,8 @@
     },
     "zed": {
       "theme": true
+    },
+    "engines": {
+      "zed": "*"
     }
   }
