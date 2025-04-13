@@ -1,0 +1,10 @@
+{
+    "name": "Arctic Depth",
+    "title": "Arctic Depth",
+    "description": "A sleek dark blue theme for Zed",
+    "version": "1.0.0",
+    "themes": [{
+      "name": "Arctic Depth",
+      "path": "./themes/arctic-depth-color-theme-zed.json"
+    }]
+  }

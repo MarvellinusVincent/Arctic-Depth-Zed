@@ -1,0 +1,16 @@
+{
+    "name": "arctic-depth-zed",
+    "version": "1.0.0",
+    "description": "A sleek, high-contrast dark blue theme for Zed",
+    "author": "Marvellinus Vincent",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "main": "./themes/arctic-depth-color-theme-zed.json",
+    "keywords": ["theme", "dark", "blue", "arctic"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MarvellinusVincent/Arctic-Depth"
+    },
+    "zed": {
+      "theme": true
+    }
+  }
