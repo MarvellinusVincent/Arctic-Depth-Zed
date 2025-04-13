@@ -37,7 +37,7 @@
 
 ### **Method 2: Clone Repository**
 ```bash
-git clone https://github.com/MarvellinusVincent/Arctic-Depth.git ArcticDepthZed
+git clone https://github.com/MarvellinusVincent/Arctic-Depth-Zed.git ArcticDepthZed
 cd ArcticDepthZed
 mkdir -p ~/.zed/themes
 cp themes/arctic-depth-color-theme-zed.json ~/.zed/themes/
