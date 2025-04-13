@@ -2,7 +2,7 @@
   <img alt="Logo" src="images/logo_white.png" width="100" />
 </p>
 <h1 align="center">
-  ❄️ Arctic Depth Theme
+  ❄️ Arctic Depth Theme for Zed
 </h1>
 <p align="center">
   A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment.
