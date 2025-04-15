@@ -1,7 +1,7 @@
 id = "arctic-depth"
 name = "Arctic Depth"
 version = "1.0.0"
-schema_version = "1"
+schema_version = 1
 authors = ["Marvellinus Vincent <vmarvellinus@gmail.com>"]
 description = "A sleek, high-contrast dark blue theme for Zed"
 repository = "https://github.com/MarvellinusVincent/Arctic-Depth-Zed"
